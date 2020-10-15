@@ -47,6 +47,9 @@
 
           <div class="map-container">
             <div id="mapid"></div>
+            <input type="hidden" name="lat">
+            <input type="hidden" name="lng">
+
             <footer>
               <a href="" id="select-point">
                 Clique no mapa para adicionar a localização
@@ -81,7 +84,8 @@
 
             </div>
 
-            <button type="button">
+            <button onclick="addPhotoField()" 
+            type="button">
               <img src="./public/images/add-file.svg" alt="Nova imagem">
             </button>
 
@@ -92,7 +96,7 @@
           <legend>Visitação</legend>
           <div class="input-block">
             <label for="Instructions">Instruções</label>
-            <textarea type="instructions" name="instructions"></textarea>
+            <textarea type="instructions" name="instructions" required></textarea>
           </div>
           <div class="input-block">
             <label for="opening_hours">Horários das visitas</label>
@@ -101,7 +105,7 @@
 
           <div class="input-block">
             <label for="open_on_weekends">Atende im de semana?</label>
-            <input type="hidden" id="open_on_weekends" name="open_on_weekends" value="1" />
+            <input type="hidden" id="open_on_weekends" name="open_on_weekends" value="1" required>
 
             <div class="button-select">
               <button type="button" class="active">Sim</button>
