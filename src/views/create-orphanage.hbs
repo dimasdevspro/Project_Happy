@@ -41,7 +41,7 @@
 
     <main class="animate-appear with-sidebar">
 
-      <form action="">
+      <form action="save-orphanage" method="post" onsubmit="validate(event)">
         <fieldset>
           <legend>Dados</legend>
 
@@ -78,20 +78,14 @@
             <div class="images-upload" id="images">
 
               <div class="new-upload">
-                <input 
-                name="images" 
-                placeholder="Cole o link da foto aqui" 
-                required>
+                <input name="images" placeholder="Cole o link da foto aqui" required type="url">
                 <span onclick="deleteField(event)">
-                  <img 
-                  src="/images/remove-file.svg" 
-                  alt="Remover foto"></span>
+                  <img src="/images/remove-file.svg" alt="Remover foto"></span>
               </div>
 
             </div>
 
-            <button onclick="addPhotoField()" 
-            type="button">
+            <button onclick="addPhotoField()" type="button">
               <img src="/images/add-file.svg" alt="Nova imagem">
             </button>
 
@@ -114,14 +108,8 @@
             <input type="hidden" id="open_on_weekends" name="open_on_weekends" value="1" required>
 
             <div class="button-select">
-              <button data-value="1"
-              onclick="toggleSelect(event)" 
-              type="button" 
-              class="active">Sim</button>
-              <button data-value="0"
-              onclick="toggleSelect(event)" 
-              type="button" 
-              class="active">Não</button>
+              <button data-value="1" onclick="toggleSelect(event)" type="button" class="active">Sim</button>
+              <button data-value="0" onclick="toggleSelect(event)" type="button" class="active">Não</button>
             </div>
             <button type="submit" class="primary-button">
               Confirmar
