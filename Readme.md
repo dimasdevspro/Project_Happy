@@ -25,7 +25,7 @@
 
 <p>Detalhes do Projeto:</p>
 <ul>
- <li>Criação de FrontEnd</li>
+ <li>Criação de FrontEnd;</li>
  <li>Importando e Acoplando o Front-end ao servidor (html, css, javascript);</li>
 </ul>
 
@@ -33,16 +33,16 @@
 ### Status do Projeto
 
 <h4> 
-👌 Concluído 👌
+👌 Concluído! 👌
 </h4>
 
 
 ### Features
 
-- [x] Página apresentação
-- [x] Página com Mapa de entidades cadastradas
-- [x] Página com informações da entidades
-- [x] Página de cadastro de entidade
+- [x] Página apresentação;
+- [x] Página com Mapa de entidades cadastradas;
+- [x] Página com informações da entidades;
+- [x] Página de cadastro de entidade.
 
 
 ### Demonstração da Aplicação
@@ -71,7 +71,7 @@ Para começar, você vai precisar ter instalado em sua máquina as seguintes fer
 # Acesse o terminal/cmd de sua plataforma (Win, Linux, etc)
 
 # Clone este repositório com o seguinte comando abaixo
-$ git clone <https://github.com/dimasdevspro/Site_Portifolio_Desafio_3>
+$ git clone https://github.com/dimasdevspro/Site_Portifolio_Desafio_3
 
 # Certifique se que o terminal esteja
 $ cd /Project_Happy
@@ -118,16 +118,16 @@ $ http://localhost:5000/
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
-#### FrontEnd/Web:
-  - Javascript
-  - HTML5
-  - CSS3
-  - Leaflet
+#### FrontEnd/Web
+  - Javascript;
+  - HTML5;
+  - CSS3;
+  - Leaflet.
 
 #### Backend:
-  - NodeJS
-  - Express
-  - SQlite
+  - NodeJS;
+  - Express;
+  - SQlite.
 
 
 ### Autor
