@@ -5,7 +5,6 @@
 
 ### Indice
 <!--ts-->
-* [Indice](#indice)
 * [Sobre](#sobre)
 * [Status do Projeto](#status-do-projeto)
 * [Features](#features)
@@ -19,7 +18,7 @@
 <!--te-->
 
 
-### Sobre
+### Sobre [↩](#indice)
 
 <p>Aplicativo Web desenvolvido na 3a edição  da Next-Level-Week da Rocketseat. </p>
 
@@ -30,14 +29,14 @@
 </ul>
 
 
-### Status do Projeto
+### Status do Projeto [↩](#indice)
 
 <h4> 
 👌 Concluído! 👌
 </h4>
 
 
-### Features
+### Features [↩](#indice)
 
 - [x] Página apresentação;
 - [x] Página com Mapa de entidades cadastradas;
@@ -45,7 +44,7 @@
 - [x] Página de cadastro de entidade.
 
 
-### Demonstração da Aplicação
+### Demonstração da Aplicação [↩](#indice)
 
 <h4 align="center"> 
 <img src="public/images/Happydemo1.gif" height="150" width="250">
@@ -53,7 +52,7 @@
 </h4>
 
 
-### Pré-requisitos
+### Pré-requisitos [↩](#indice)
 
 Para começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
 
@@ -64,7 +63,7 @@ Para começar, você vai precisar ter instalado em sua máquina as seguintes fer
 - O motor V8 Javascript do Chrome, versão LTS [NodeJS](https://nodejs.org/en/download/).
 
 
-### Testes 
+### Testes [↩](#indice)
 
 ```bash
 
@@ -82,7 +81,7 @@ $ code .
 ```
 
 
-### Instalação de Dependências
+### Instalação de Dependências [↩](#indice)
 
 Instalação de Dependências "Express", "Nodemon" e "Nunjucks" para rodar aplicação.
 
@@ -113,8 +112,7 @@ $ http://localhost:5000/
 
 ```
 
-
-### Tecnologias utilizadas
+### Tecnologias utilizadas [↩](#indice)
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
@@ -130,7 +128,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
   - SQlite.
 
 
-### Autor
+### Autor [↩](#indice)
 
 ---
 
@@ -146,6 +144,6 @@ Feito com ❤️ por Dimas 👋🏽 Entre em contato!
 [![Gmail Badge](https://img.shields.io/badge/-dimasdevspro@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dimasdevspro@gmail.com)](mailto:dimasdevspro@gmail.com)
 
 
-### Licença
+### Licença [↩](#indice)
 
 <img alt="APM" src="https://img.shields.io/apm/l/vim-mode">
