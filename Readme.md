@@ -33,7 +33,7 @@
 ### Status do Projeto
 
 <h4> 
-	🚧 Em construção... 🚧
+👌 Concluído 👌
 </h4>
 
 
