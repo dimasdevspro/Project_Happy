@@ -2,6 +2,7 @@
 
 <p align="center"><img src="https://img.shields.io/badge/<HTML>-<green>"> <img src="https://img.shields.io/badge/<CSS>-<green>"> <img src="https://img.shields.io/badge/<Javascript>-<green>"> <img src="https://img.shields.io/badge/<NodeJs>-<green>"> <img src="https://img.shields.io/badge/<Handlebars>-<green>"></p> 
 
+
 ### Indice
 <!--ts-->
 * [Indice](#indice)
@@ -17,12 +18,11 @@
 * [Licença](#licença)
 <!--te-->
 
+
 ### Sobre
 
-<p align="center">Aplicativo Web desenvolvido na 3a edição  da Next-Level-Week da Rocketseat. </p>
-<ul >
- <li><a href="https://github.com/rocketseat-education/bootcamp-launchbase-desafios-03/blob/master/desafios/03-1-primeiro-servidor.md" target="_blank">Desafio 3.1;</a></li>
-</ul>
+<p>Aplicativo Web desenvolvido na 3a edição  da Next-Level-Week da Rocketseat. </p>
+
 <p>Detalhes do Projeto:</p>
 <ul>
  <li>Criação de FrontEnd</li>
@@ -62,7 +62,6 @@ Para começar, você vai precisar ter instalado em sua máquina as seguintes fer
 - Um editor de código [VSCode](https://code.visualstudio.com/);
 
 - O motor V8 Javascript do Chrome, versão LTS [NodeJS](https://nodejs.org/en/download/).
-
 
 
 ### Testes 
@@ -114,6 +113,7 @@ $ http://localhost:5000/
 
 ```
 
+
 ### Tecnologias utilizadas
 
 As seguintes ferramentas foram usadas na construção do projeto:
@@ -124,7 +124,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
   - CSS3
   - Leaflet
 
-#### Backend
+#### Backend:
   - NodeJS
   - Express
   - SQlite
