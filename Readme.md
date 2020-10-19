@@ -61,11 +61,8 @@ Para começar, você vai precisar ter instalado em sua máquina as seguintes fer
 
 - Um editor de código [VSCode](https://code.visualstudio.com/);
 
-- O motor V8 Javascript do Chrome, versão LTS [NodeJS](https://nodejs.org/en/download/); 
+- O motor V8 Javascript do Chrome, versão LTS [NodeJS](https://nodejs.org/en/download/).
 
-- Template [Handlebars] (https://handlebarsjs.com/);
-
-- Mapa interativo [Leaflet] (https://leafletjs.com/).
 
 
 ### Testes 
@@ -113,7 +110,7 @@ $ npm install nunjucks
 $ npm start
 
 # Para rodar a aplicação no browser, digite
-$ http://localhost:3000/
+$ http://localhost:5000/
 
 ```
 
@@ -121,9 +118,16 @@ $ http://localhost:3000/
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
-- [VSCode](https://code.visualstudio.com/);
-- [Git](https://git-scm.com);
-- [NodeJS](https://nodejs.org/en/download/).
+#### FrontEnd/Web:
+  - Javascript
+  - HTML5
+  - CSS3
+  - Leaflet
+
+#### Backend
+  - NodeJS
+  - Express
+  - SQlite
 
 
 ### Autor
